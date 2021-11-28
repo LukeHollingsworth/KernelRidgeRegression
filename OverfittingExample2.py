@@ -1,3 +1,5 @@
+# This programme further demonstrates the phenomena of overfitting, with a range of basis functions.
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
