@@ -1,3 +1,5 @@
+# This programme illustrates the phenomena of overfitting.
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
